@@ -1,0 +1,8 @@
+*
+!**/
+!*.cc
+!*.h
+!Makefile
+!.gitignore
+!README.md
+!/images/*
